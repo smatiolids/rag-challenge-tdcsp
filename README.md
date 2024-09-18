@@ -1,13 +1,16 @@
 # RAG Challenge no TDC São Paulo
 
-Quer ganhar um brinde e um badge para publicar nas suas redes sociais e ainda praticar com o Langflow?
+Quer ganhar prêmios e um badge para publicar nas suas redes sociais e ainda praticar com o Langflow?
 
-É muito simples! Basta usar o Langflow e criar um fluxo RAG e pronto!
+É muito simples! Basta usar o DataStax Langflow, criar um fluxo RAG e pronto!
 
-Quem completar o desafio e enviar a evidencia irão:
+![RAG Challenge - Badge](https://github.com/user-attachments/assets/a770ae91-7755-4c57-b507-dfd33077f5e2)
+
+Quem completar o desafio e enviar a evidencia irá:
 
 - Ganhar um **brinde** (sujeito a disponibilidade)
-- Concorrem a **mochilas** sorteadas no fim do dia por volta das 17:30. (Fique de olho no seu email por volta deste horário)
+- Receber um Badge de reconhecimento
+- Concorrer a **mochilas** sorteadas no fim do dia por volta das 17:30. (Fique de olho no seu email por volta deste horário)
 
 Você só precisará de uma conta no **DataStax Astra** e na **OpenAI**
 
