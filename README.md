@@ -8,13 +8,16 @@ Quer ganhar prêmios e um badge para publicar nas suas redes sociais e ainda pra
 
 Quem completar o desafio e enviar a evidencia irá:
 
-- Ganhar um **brinde** (sujeito a disponibilidade)
+- Participar do sorteio de **brindes** 
 - Receber um Badge de reconhecimento
-- Concorrer a **mochilas** sorteadas no fim do dia por volta das 17:30. (Fique de olho no seu email por volta deste horário)
+
+**Fique de olho no seu email por volta deste horário**
 
 Você só precisará de uma conta no **DataStax Astra** e na **OpenAI**
 
 ## Passo a passo
+
+Confira no YouTube: https://www.youtube.com/watch?v=3oAre6e7vl8
 
 ### Conta no Astra
 
