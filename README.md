@@ -1,4 +1,4 @@
-# RAG Challenge no TDC São Paulo
+# RAG Challenge no Python Brasil 2024
 
 Quer ganhar prêmios e um badge para publicar nas suas redes sociais e ainda praticar com o Langflow?
 
@@ -18,7 +18,7 @@ Você só precisará de uma conta no **DataStax Astra** e na **OpenAI**
 
 ### Conta no Astra
 
-Acesse o DataStax Astra em [datastax.astra.com](https://langflow.datastax.com?utm_medium=social_organic&utm_source=outreach&utm_campaign=tdcsp2024&utm_content=).
+Acesse o DataStax Astra em [datastax.astra.com](https://langflow.datastax.com?utm_medium=social_organic&utm_source=outreach&utm_campaign=pythonbrasil2024&utm_content=).
 
 Se já tiver uma conta, tudo bem, é só acessá-la.
 
@@ -125,7 +125,7 @@ Terminou? Legal, agora é so mandar o url do seu fluxo pelo form abaixo e passar
 O URL está aqui:
 <img width="1027" alt="Screenshot 2024-09-17 at 7 58 21 PM" src="https://github.com/user-attachments/assets/6dc02d4d-c70a-4d3d-b871-43dbfac20d33">
 
-Formulário para envio: https://forms.gle/hDfcaU8cJXQhrDcq7
+Formulário para envio: [https://forms.gle/hDfcaU8cJXQhrDcq7](https://forms.gle/FfFiZn5hhQrAUY6E6)
 
 # Curtiu?
 
@@ -133,8 +133,8 @@ Mande seu feedback para: samuel.matioli@datastax.com
 
 # Condições gerais
 
-- Brindes sujeitos à disponibilidade
-- 4 Mochilas sorteadas por dia
+- Sorteios realizados todo dia as 16h.
+- Brindes sujeitos à disponibilidade.
 - Retirada dos brindes será somente presencial.
 
 
