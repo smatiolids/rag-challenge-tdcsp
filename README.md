@@ -29,7 +29,7 @@ Ao acessar o dashboard do **Astra**, encontre o botão "Create Database"
 Escolha as opções:
 
 - **Deployment type**: Serverless (Vector)
-- **Database name**: langflow_tdc
+- **Database name**: langflow_pybr
 - **Provider**: Amazon Web Services
 - **Region**: us-east-2
   
@@ -70,7 +70,7 @@ Faça os seguintes ajustes nos componentes;
 
 - **"OpenAI Embeddings"**: informe a sua OpenAI API Key. Você pode criar uma variável global para reutilizar este valor. O modelo de embedding utilizado será o padrão: text-embedding-3-small.
 
-- **"Astra DB"**: escolha o "Database" (se você seguiu as instruções deve ser "langflow_tdc") e, em seguida, no campo Collection, selecione "Create a new collection".
+- **"Astra DB"**: escolha o "Database" (se você seguiu as instruções deve ser "langflow_pybr") e, em seguida, no campo Collection, selecione "Create a new collection".
 
 - - **Collection Name**: "langflow_nike_run"
 - - **Dimensions**: 1536
