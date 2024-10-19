@@ -15,6 +15,11 @@ Quem completar o desafio e enviar a evidencia irá:
 
 Você só precisará de uma conta no **DataStax Astra** e na **OpenAI**
 
+# Nos dê uma estrela no Github!
+
+Acesse o repositório do Langflow em https://github.com/langflow-ai/langflow clique em "Star"!
+
+
 ## Passo a passo
 
 Confira no YouTube: https://www.youtube.com/watch?v=3oAre6e7vl8
